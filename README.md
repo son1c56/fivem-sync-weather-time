@@ -4,9 +4,9 @@
 ---
 
 
-![Letzer Commit](https://img.shields.io/github/last-commit/son1c56/fivem-sync-weater-time?label=last%20commit)
-![Language](https://img.shields.io/github/languages/top/son1c56/fivem-sync-weater-time?color=blue&label=lua)
-![Language Count](https://img.shields.io/github/languages/count/son1c56/fivem-sync-weater-time)
+![Letzer Commit](https://img.shields.io/github/last-commit/son1c56/fivem-sync-weather-time?label=last%20commit)
+![Language](https://img.shields.io/github/languages/top/son1c56/fivem-sync-weather-time?color=blue&label=lua)
+![Language Count](https://img.shields.io/github/languages/count/son1c56/fivem-sync-weather-time)
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
