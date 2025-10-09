@@ -1,9 +1,9 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Diablo'
-description 'Diablo Extras'
-version '1.0.5'
+author 'Son1cDEV'
+description 'Son1c Extras'
+version '1.0.6'
 
 client_scripts {
     'client/cl_weather_time_sync.lua'
